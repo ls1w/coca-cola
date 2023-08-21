@@ -10,6 +10,7 @@ body{
     display: flex;
     flex-direction:column;
     font-family: 'Montserrat', sans-serif;
+    color: white;
 }
 header{
     height: 100px;
@@ -17,16 +18,37 @@ header{
     align-items: center;
     gap: 24px;
     padding-left: 50px;
-    color: white;
 }
 header span{
     font-weight: 600;
 }
 
+
 main{
-    background-color: blue;
     flex-grow: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
+
+.background-logo{
+    position: absolute;
+    width: 100%;
+    max-height: 100%;
+    margin: auto;
+    top:0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: -1;
+}
+.content-text{
+    position: absolute;
+    font-size: 40px;
+    width: 240px;
+    transform: translateX(-100%);
+}
+
 
 footer{
     background-color: yellow;
