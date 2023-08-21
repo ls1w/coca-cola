@@ -51,6 +51,10 @@ main{
 
 
 footer{
-    background-color: yellow;
+    background-color: green;
     height: 100px;
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    padding-right: 50px;
 }
