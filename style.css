@@ -51,7 +51,6 @@ main{
 
 
 footer{
-    background-color: green;
     height: 100px;
     display: flex;
     justify-content: end;
