@@ -49,6 +49,9 @@ main{
     width: 240px;
     transform: translateX(-100%);
 }
+.content-image{
+    height: 85vh;
+}
 
 
 footer{
