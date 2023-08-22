@@ -3,7 +3,7 @@
 ![Coca-Cola][coca-cola-preview]
 
 [coca-cola-preview]: ./img/coca-cola-preview.png
-[github]: ./img/favicon-dark.png
+[github]: ./img/favicon-dark-mini.png
 
 Primeiro website criado, do tipo landing page, para treino no desenvolvimento de sites.
 O site foi desenvolvido utilizando boas práticas como por exemplo tags semânticas e responsividade.
