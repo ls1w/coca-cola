@@ -87,11 +87,7 @@ footer span{
 }
 
 @media(max-width: 768px){
-    body{
-        background: green;
-    }
-    
-    header{
+        header{
         gap: 8px;
         padding-left: 12px;
     }
