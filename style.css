@@ -17,11 +17,13 @@ header{
     display: flex;
     align-items: center;
     gap: 24px;
-    padding-left: 50px;
+    padding-left: 32px;
 }
 header span{
     font-weight: 600;
 }
+
+
 
 
 main{
@@ -54,10 +56,15 @@ main{
 }
 
 
+
 footer{
     height: 100px;
     display: flex;
-    justify-content: end;
+    justify-content: space-between;
     align-items: center;
-    padding-right: 50px;
+    padding-right: 32px;
+    padding-left: 90px;
+}
+footer span{
+    color: #ffffff3a;
 }
