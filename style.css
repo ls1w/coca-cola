@@ -3,6 +3,7 @@
     margin: 0;
     box-sizing: border-box;
 }
+
 body{
     width: 100vw;
     height: 100vh;
@@ -12,6 +13,7 @@ body{
     font-family: 'Montserrat', sans-serif;
     color: white;
 }
+
 header{
     height: 100px;
     display: flex;
@@ -19,6 +21,7 @@ header{
     gap: 24px;
     padding-left: 32px;
 }
+
 header span{
     font-weight: 600;
 }
@@ -45,12 +48,15 @@ main{
     z-index: -1;
     opacity: 0.3;
 }
+
 .content-text{
     position: absolute;
-    font-size: 40px;
+    font-size: 2rem;
     width: 240px;
     transform: translateX(-100%);
+    text-align: end;
 }
+
 .content-image{
     height: 85vh;
 }
@@ -63,7 +69,10 @@ footer{
     justify-content: space-between;
     align-items: center;
     padding-right: 32px;
-    padding-left: 90px;
+    padding-left: 32px;
+}
+footer div{
+    width: 64px;
 }
 footer span{
     color: #ffffff3a;
