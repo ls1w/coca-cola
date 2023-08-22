@@ -16,6 +16,5 @@ O site foi desenvolvido utilizando boas práticas como por exemplo tags semânti
 
 
 ## Autor
-![][github]
-[Lucas Souza](https://github.com/ls1w)
+![][github] [Lucas Souza](https://github.com/ls1w) ![][github]
 
