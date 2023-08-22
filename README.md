@@ -1,1 +1,21 @@
-# coca-cola
+# COCA-COLA
+
+![Coca-Cola][coca-cola-preview]
+
+[coca-cola-preview]: ./img/coca-cola-preview.png
+[github]: ./img/favicon-dark.png
+
+Primeiro website criado, do tipo landing page, para treino no desenvolvimento de sites.
+O site foi desenvolvido utilizando boas práticas como por exemplo tags semânticas e responsividade.
+
+
+## Tecnologias
+* HTML
+* CSS
+* Media Queries
+
+
+## Autor
+![][github]
+[Lucas Souza](https://github.com/ls1w)
+
